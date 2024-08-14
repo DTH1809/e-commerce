@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+
 /** @type {import('next').NextConfig} */
 const ContentSecurityPolicy = require('./csp')
 const redirects = require('./redirects')
