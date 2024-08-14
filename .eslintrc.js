@@ -10,6 +10,8 @@ module.exports = {
     'no-console': 'off',
     "prettier/prettier": "off",
     "simple-import-sort/imports": "off",
-    "eol-last": "off",
+    "eol-last": "off","comma-dangle": "off",
+    "react-hooks/exhaustive-deps": "off",
+    "@typescript-eslint/no-unused-vars": "off",
   },
 }
