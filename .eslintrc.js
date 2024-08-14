@@ -8,6 +8,8 @@ module.exports = {
   rules: {
     'prettier/prettier': ['error', { endOfLine: 'auto' }],
     'no-console': 'off',
-    "prettier/prettier": "off"
+    "prettier/prettier": "off",
+    "simple-import-sort/imports": "off",
+    "eol-last": "off",
   },
 }
